@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YuhiSakurai
 - 👀 I’m interested in science.
 - 🌱 I’m currently learning computer science.
-- 💞️ I’m a biginner.
+- 💞️ I’m a beginner.
 - 📫 How to reach me ...now preparing.
 
 <!---
